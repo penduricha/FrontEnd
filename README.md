@@ -65,6 +65,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
+
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Link our Document Software Architechure: https://docs.google.com/document/d/1aY418dliae9kije4muVCmKJy9rvphhlQ/edit
+Link github Backend app java swing with MariaDB: https://github.com/penduricha/projectAppLocalNikingBackend
+Thank you Mr Vo Van Hai to teach us about SA.
